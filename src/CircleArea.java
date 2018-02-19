@@ -4,7 +4,6 @@ public class CircleArea {
 		double radius = 13;
 		System.out.println(area(radius));
 		
-		System.out.println(area(radius)/2);
 	}
 	
 	public static double area(double radius) {
